@@ -18,3 +18,5 @@ create table restauranteDesnormalizadoBD(
  valor_pago decimal(10,2), 
  codigo_transacao varchar(100) 
 );
+
+-- Teste
